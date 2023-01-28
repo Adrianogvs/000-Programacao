@@ -1,0 +1,46 @@
+# O que é um programa de computador?
+
+ Um programa de computador é uma sequência de passos definidos por um programador para alcançar um objetivo;
+ Cada passo pode ser chamado de uma instrução;
+ * Exemplo de programa (Sofware):
+   - Word;
+   - Excel;
+   - Bloco de notas.
+
+ * Exemplo de hardware:
+   - HD fisico;
+   - Placa mãe;
+   - Pendrive.
+
+ * Computador so entende bits (0 e 1).
+
+ Para representar letras, números, simbolos, etc, utiliza-se um conjunto de 8 bits, chamados de byte.
+   a: 01100001
+
+ Seria inviável trabalhar desta forma. Com uma linguagem de programação e um complilador essa tarefa é facilitada.
+
+
+### Exemplos de Comandos:
+
+ * JavaScript
+   - console.log("Hello World!");
+
+ * Java
+   - System.out.print("Hello World!");
+
+ * Python
+   - print("Hello World!")
+ 
+
+### O que são algoritmos?
+
+   Um algortimo pe um asequêcnia passos que devem ser executados para atigir determinado objetivo.
+
+   Exemplo:
+   Receita de bolo
+   Pois é um lista de passos, em que se seguir todos os passos irá ser feito um bolo.
+
+   Um algoritmo não necessariamente é um programa de computador, ele pode ser executado por uma pessoa.
+
+   Uma mesma tarefa pode ser realizada por diferentes algoritmos.
+
