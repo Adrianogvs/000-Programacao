@@ -19,6 +19,7 @@
 
  Seria inviável trabalhar desta forma. Com uma linguagem de programação e um complilador essa tarefa é facilitada.
 
+<p>
 
 ### Exemplos de Comandos:
 
@@ -31,6 +32,7 @@
  * Python
    - print("Hello World!")
  
+<p>
 
 ### O que são algoritmos?
 
@@ -43,4 +45,38 @@
    Um algoritmo não necessariamente é um programa de computador, ele pode ser executado por uma pessoa.
 
    Uma mesma tarefa pode ser realizada por diferentes algoritmos.
+
+<p>
+
+### Variáveis
+  
+   Local que podemos armazenar um valor.<br>
+   Fica armazenada na memoria.<br>
+   Um algoritmo pode ter diversas variaveis.<br>
+   Permitir que o valor seja alterado.<br>
+   As variáveis podem ter tipos diferentes.<br>
+     - Texto, numeros e etc.<br>
+   Cada variável tem um identificador (nome) oara que possamos utilizá-lo no código.<br>
+   Exemplo: Calculadora<br>
+
+<p>
+
+### Tipos de variáveis
+
+  Caractere
+    - Tambpem chamado de string;
+    - Representado por aspas duplas;
+    - Teste de caractere.
+
+  Inteiro
+    - Número inteiro;
+    - 100.95
+
+  Logico
+    - Valores boleanos;
+    - Vardadeiro ou Falso.
+
+<p>
+
+### Operadores
 
